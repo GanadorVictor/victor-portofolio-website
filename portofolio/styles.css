@@ -249,9 +249,9 @@ nav {
     object-fit: cover;
 }
 
-/* About Section */
+/*  Section */
 .about {
-    padding: 6rem 0;
+    padding: 6rem 20px;
     background-color: #0a192f;
     color: white;
 }
@@ -260,6 +260,7 @@ nav {
     display: flex;
     gap: 3rem;
     align-items: center;
+    padding: 0 20px;
 }
 
 .about-image {
